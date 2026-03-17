@@ -1,0 +1,16 @@
+# Ambientes Virtuais (Pasta do PyCharm)
+.venv/
+venv/
+ENV/
+
+# Arquivos de Cache do Python
+__pycache__/
+*.py[cod]
+
+# Logs e Relatórios (Dados sensíveis que não devem subir)
+incidentes_detectados.txt
+meus_logs.csv
+
+# Configurações da IDE
+.idea/
+.vscode/
